@@ -52,7 +52,7 @@ You can also visit the [official website ](http://www.timeseriesclassification.c
 
 ### 🚀Network Architecture
 
-![1711690751233](structure_00.png)
+![structure_00.png]
 
 ## 👁️Requirements and Installation
 
