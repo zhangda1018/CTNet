@@ -52,7 +52,7 @@ You can also visit the [official website ](http://www.timeseriesclassification.c
 
 ### 🚀Network Architecture
 
-![1711690751233](C:\Users\张达\AppData\Roaming\Typora\typora-user-images\1711690751233.png)
+![1711690751233](\structure_00.png)
 
 ## 👁️Requirements and Installation
 
